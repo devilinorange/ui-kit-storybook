@@ -1,0 +1,15 @@
+# configs
+.prettierrc
+tsconfig.json
+
+# folders
+public/
+.storybook/
+.vscode/
+
+# package info
+package-lock.json
+package.json
+
+# etc
+README.md
