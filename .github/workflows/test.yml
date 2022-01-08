@@ -14,13 +14,8 @@ jobs:
           cache: 'npm'
           check-latest: true
 
-      - name: Printing node version
-        run: |
-          node --version
-          npm --version
-
       - name: Install dependencies
         run: npm i
 
       - name: Run test:codestyle
-        run: npm run test:codestyle
+        run: npm run lint
