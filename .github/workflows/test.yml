@@ -13,6 +13,11 @@ jobs:
           node-version-file: '.nvmrc'
           cache: 'npm'
 
+      - name: Printing node version
+        run: |
+          node --version
+          npm --version
+
       - name: Install dependencies
         run: npm i
 
