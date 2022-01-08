@@ -1,11 +1,13 @@
 # configs
 .prettierrc
 tsconfig.json
+.nvmrc
 
 # folders
 public/
 .storybook/
 .vscode/
+.github/
 
 # package info
 package-lock.json
