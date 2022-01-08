@@ -1,4 +1,4 @@
-# UI-Kit-Storybook ![Test worklow](https://github.com/devilinorange/ui-kit-storybook/actions/workflows/test.yml/badge.svg)
+# UI-Kit-Storybook [![Test worklow](https://github.com/devilinorange/ui-kit-storybook/actions/workflows/test.yml/badge.svg?branche=master)](https://github.com/devilinorange/ui-kit-storybook/actions) [![License](https://img.shields.io/badge/License-UNLICENSED-orange)](https://github.com/devilinorange/ui-kit-storybook/blob/master/LICENSE)
 
 UI-Kit-Storybook is a project for experimenting with react, storybook and CI customization.
 
