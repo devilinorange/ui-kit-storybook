@@ -1,6 +1,7 @@
 # configs
 .prettierrc
 tsconfig.json
+.nvmrc
 
 # folders
 public/
