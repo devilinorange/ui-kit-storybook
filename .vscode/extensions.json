@@ -4,7 +4,6 @@
     "vivaxy.vscode-conventional-commits",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "cschleiden.vscode-github-actions",
     "github.vscode-pull-request-github"
   ]
 }
