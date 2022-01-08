@@ -6,6 +6,7 @@ tsconfig.json
 public/
 .storybook/
 .vscode/
+.github/
 
 # package info
 package-lock.json
