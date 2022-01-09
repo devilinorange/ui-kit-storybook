@@ -10,15 +10,18 @@ UI-Kit-Storybook is a project for experimenting with react, storybook and CI cus
 
 ## Possible scripts
 
-|Script                         |Description     |
-|-------------------------------|----------------|
-|```npm run storybook```        |Run storybook on localhost on port 6006                                          |
-|```npm run build-storybook```  |Build storybook                                                                  |
-|```npm run format```           |Force format to codestyle                                                        |
-|```npm run test:codestyle```   |Test codestyle                                                                   |
-|```npm run build```            |Build react with [*react-scripts*](https://github.com/facebook/create-react-app) |
-|```npm run test```             |Test react with [*react-scripts*](https://github.com/facebook/create-react-app)  |
-|```npm run eject```            |Eject react with [*react-scripts*](https://github.com/facebook/create-react-app) |
+|Script                         |Description                              |
+|-------------------------------|-----------------------------------------|
+|```npm run storybook```        |Run storybook on localhost on port 6006  |
+|```npm run build-storybook```  |Build storybook                          |
+|```npm run format```           |Force format to codestyle                |
+|```npm run lint```             |Test codestyle                           |
+|```npm run build:components``` |Build only react components              |
+|```npm run build:storybook```  |Build only storybook                     |
+|```npm run build```            |Build all packages                       |
+|```npm run clean:components``` |Clean only react component build folder  |
+|```npm run clean:storybook```  |Clean only storybook build folder        |
+|```npm run Clean```            |Clean all build folders of all packages  |
 
 ## Engines
 
