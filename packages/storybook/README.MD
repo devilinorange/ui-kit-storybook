@@ -1,6 +1,6 @@
-# UI-Kit-Components
+# UI-Kit-Storybook
 
-UI-Kit-Storybook part. It's ui-kit created on React.
+UI-Kit-Storybook part. It's ui-storybook that presents react-components.
 
 ## Install
 
@@ -14,16 +14,7 @@ This one will install all **UI-Kit-Storybook** package
 
 |Script                         |Description                              |
 |-------------------------------|-----------------------------------------|
-|```npm run build```            |Build components                         |
-|```npm run format```           |Force format to codestyle                |
-|```npm run lint```             |Test codestyle                           |
+|```npm run storybook```        |Run storybook                            |
+|```npm run build-storybook```  |Build storybook                          |
 |```npm run clean```            |Clean build folder                       |
 
-## Engines
-
-```json
-  {
-    "node": "16.13.1",
-    "npm": "8.1.2"
-  }
-```
